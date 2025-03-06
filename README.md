@@ -1,5 +1,9 @@
 # SushiShine
 
+![Project Preview](project-preview.png)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 Welcome to **Sushi Shine**, a beautifully designed sushi website showcasing popular food, trending sushi items, and drinks. This project was built as part of my **web development portfolio** to demonstrate my skills in **HTML**, **CSS**, and responsive design techniques.
 
 📋 Table of Contents
@@ -92,4 +96,5 @@ This project is part of my personal portfolio, showcasing my skills in HTML, CSS
 
 ---
 
-#⭐️ Contributions, feedback, and suggestions are welcome!
+⭐️ **End Note**  
+Thank you for visiting this project! Your feedback, suggestions, and contributions are always welcome.
