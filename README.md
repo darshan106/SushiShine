@@ -65,8 +65,31 @@ Make sure you have the following installed:
 - Node.js
 - npm (Node Package Manager)
 
-### Clone the Repository
+### Install Dependencies
+
+To install all the required project dependencies, run:
 
 ```bash
-git clone https://github.com/your-github-username/sushi-shine.git
-cd sushi-shine
+npm install
+```
+
+### Run the Project
+
+```bash
+npm run dev
+```
+Open http://localhost:5173 in your browser to view the project.
+
+---
+
+## 🔗 Live Link  
+[Live Website](https://sushishine.netlify.app/)
+
+---
+
+## 👨‍💻 About the Developer
+This project is part of my personal portfolio, showcasing my skills in HTML, CSS, and responsive web design.
+
+---
+
+#⭐️ Contributions, feedback, and suggestions are welcome!
